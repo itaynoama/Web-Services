@@ -1,0 +1,11 @@
+{
+  "name": "Ex0",
+  "version": "1.0.0",
+  "description": "Ex0 WS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "itay noama",
+  "license": "ISC"
+}
